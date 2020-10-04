@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65d41c2ff89a60443955cd9a9f855832, type: 3}
+  m_Name: TestBoardInitData
+  m_EditorClassIdentifier: 
+  tilePrefab: {fileID: 4074744681157493427, guid: 60450cd8b04cf3940a8392685bba7f41, type: 3}
+  width: 10
+  height: 5
+  firstTileCenter: {x: -5.82, y: 2.3}
+  distanceBetweenCenters: {x: 1.44, y: 1.05}
+  offset: {x: -0.36, y: 0}
