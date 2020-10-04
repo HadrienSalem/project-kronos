@@ -1,1 +1,1 @@
-# project-kronos
+# Project Kronos
